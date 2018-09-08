@@ -2,6 +2,6 @@
 星妆node+koa2企业站
 
 #启动项目
-...js
+```js
   node app
-  ...
+  ```
