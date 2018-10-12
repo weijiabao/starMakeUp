@@ -3,5 +3,11 @@
 
 #启动项目
 ```js
-  node app
+  git clone https://github.com/weijiabao/starMakeUp.git  
+
+  cd starMakeUp
+
+  npm install
+
+  npm run dev
   ```
